@@ -1,0 +1,1732 @@
+=== NYO12 APK ANALYSIS ===
+Archive:  NYO12-Ultimate-v0.1.0.apk
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+     3756  1980-01-01 00:00   AndroidManifest.xml
+      624  1980-01-01 00:00   res/drawable/$ic_launcher_bg__0.xml
+      664  1980-01-01 00:00   res/drawable/ic_launcher_bg.xml
+     2336  1980-01-01 00:00   res/drawable/ic_launcher_fg.xml
+     1992  1980-01-01 00:00   res/drawable/ic_launcher_mono.xml
+      548  1980-01-01 00:00   res/mipmap-anydpi-v26/ic_launcher.xml
+     1060  1980-01-01 00:00   resources.arsc
+    83744  2026-11-13 11:43   classes.dex
+    33104  2026-11-13 11:43   lib/arm64-v8a/libnxloader.so
+  9333048  2026-11-13 11:43   lib/arm64-v8a/libdmhost_0100000011D90000.so
+   337656  2026-11-13 11:43   lib/arm64-v8a/libadrenotools.so
+   276264  2026-11-13 11:43   lib/arm64-v8a/libhook_impl.so
+     4216  2026-11-13 11:43   lib/arm64-v8a/libmain_hook.so
+      139  2026-11-13 11:43   assets/selftest/main.changed.tsv
+       44  2026-11-13 11:43   assets/selftest/main.cuts.tsv
+      246  2026-11-13 11:43   assets/selftest/main.fixups.tsv
+      143  2026-11-13 11:43   assets/selftest/main.gates.tsv
+       44  2026-11-13 11:43   assets/selftest/main.obs.tsv
+    66232  2026-11-13 11:43   assets/selftest/main.patched.bin
+      191  2026-11-13 11:43   assets/selftest/main.sites.tsv
+     2175  2026-11-13 11:43   META-INF/NXNATIVE.SF
+     1131  2026-11-13 11:43   META-INF/NXNATIVE.RSA
+     2048  2026-11-13 11:43   META-INF/MANIFEST.MF
+---------                     -------
+ 10151405                     23 files
+=== MANIFEST ===
+=== DEX ===
+!Vq0F
+CEn 
+75V*
+7n x
+F5V-
+65V!
+)n0@
+DTP;
+6q X
+ #TbR
+R5!.
+"n0e
+7q Y
+Qn@c
+TpTg
+'pWg
+|(1n 
+2q@O
+?q S
+%q@O
+3n C
+'(5q
+	q Y
+ \@/
+('3t	
+?nRW
+uq E
+pAn 
+(1n 0
+E5S7
+!Cn 
+?q S
+?q S
+(	n 0
+(	n 0
+333?
+Sn04
+Sn01
+Rn04
+AnT|
+Pq E
+Qx?n 
+/DpTg
+@@DpTg
+Cn0f
+	Dn0e
+Dn0e
+Dn0O
+?n0N
+An Z
+"!t5B
+Ap@z
+Dp w
+?n Z
+	nYy
+"n t
+PAnS
+`An 
+7Tn@
+	p0q
+ Bn 
+An0w
+ An 
+PBn 
+PAnS
+	0Bn 
+	Y9%
+pCn 
+`An 
+@Bn 
+	n x
+0An\
+@@n 
+!w5vH
+	pAn@
+	an 
+ Cn 
+An0w
+pAnT
+@An 
+@@n 
+dq E
+0AnQ
+yDn@
+p05!
+:Dq }
+!C62
+73v!
+	p <
+'	q {
+004T$
+L=Y>
+@@Y~
+cdTt
+PAnQ
+0Bn 
+@An 
+ Bn 
+@An 
+0Bn 
+zhRZ<
+g=jZ
+ZZ<x
+Pick 
+ (a backup is in 
+ (backup in 
+ (no pipeline cache)
+ (the ones before are in 
+ again.
+	 checks, 
+. closes it: progress it has not saved is lost.
+ failed
+ game
+ games
+5 is not on this phone, or this app has no host for it
+ prepares its shaders first, and stays on the loading screen meanwhile. The phone may get warm. Later starts take a few seconds.
+] prepares its shaders for its first start: it stays on the loading screen for a minute or two
+ pressed
+	 released
+ that came with this app (
+# RENDER_SCALE	1
+J# written by the settings screen (Launcher.java); env.txt wins over these
+%.0f fps
+%.1f GB
+%.2f
+%02x
+'s data in the app: 
+'s game data.
+'s game data: the file 
+) can't be opened.
+) can't be read: 
+) isn't 
+U). Put it anywhere on this device or its SD card first; the app reads it where it is.
+,): it is untouched in the old folder and in 
+.copying
+.keys
+.obb
+.restoring
+.romfs
+'.so). Update the app from the computer.
+	.unpacked
+/RomFS.img
+/pipeline.cache
+-: this app has no host for it yet (libdmhost_
+; files/save left as it was)
+<clinit>
+<init>
+>;)V
+NA game is running: the backup in backups/restore is restored at the next start
+	All games
+American English
+"Another game is running. Starting 
+BIBLIOTH
+QUE 
+BUILD
+B_DOWN
+B_LEFT
+B_LS
+B_MINUS
+B_PLUS
+B_RIGHT
+B_RS
+B_UP
+B_ZL
+B_ZR
+Backup failed: 
+Brazilian Portuguese
+British English
+CENTER
+CENTER_CROP
+CLAMP
+CREAM
+C_BTN
+C_DPAD
+C_FACE
+C_GAME
+C_MENU
+C_NONE
+C_STICK
+C_SWAP
+Canadian French
+Cancel
+Choose the game data
+Close it and start
+Console mode
+Controls
+Couldn't open 
+Couldn't unpack 
+D-pad down
+D-pad left
+D-pad right
+D-pad up
+D-pad up-right
+DEFAULT
+DEFAULT_BOLD
+DMROMFS1
+DM_AUDIO_PACE
+DM_LANG
+	DM_OPMODE
+DM_PAD_TEST
+DM_RENDER_SCALE
+DM_ROMFS
+	DM_RUMBLE
+DM_RUMBLE_GAIN
+DM_SHAKE_G
+DM_SHOW_FPS
+DM_TEXT_TEST
+DmPadLayout
+Docked
+@Docked renders at the TV resolution: sharper, slower on a phone.
+	DroidPlay
+Dutch
+FAILED
+FFFFF
+FILL
+FILL_AND_STROKE
+FIT_XY
+Frame-rate counter
+French
+GAME_PROCESS
+Game
+Game language
+Game rumble
+	Game time
+Game time keeps levels timed to the music in step with the picture when the phone runs the game below its frame rate; the music can stutter.
+Game timing
+GameStart.java
+Gamepad.java
+German
+Handheld
+IDLE
+IIIII
+ILII
+ILLIIJ
+Italian
+Japanese
+K_ARM_IN
+K_ARM_W
+K_BTNS
+	K_CLICK_R
+	K_CLICK_X
+K_CORNER_IN
+K_DEAD
+K_DPAD_GRAB
+K_DPAD_R
+K_DROP_TIP
+K_FACE_GAP
+K_FACE_R
+K_FACE_X
+K_FULL
+K_KNOB_R
+K_LOW_X
+K_LOW_Y
+K_L_R
+K_L_X
+K_L_Y
+K_PAD_Y
+	K_PILL_DX
+K_PILL_H
+K_PILL_W
+K_PILL_Y
+K_RSTICK_R
+K_RSWIPE
+K_STICK_GRAB
+	K_STICK_R
+	K_STICK_X
+K_SWAP_R
+K_ZL_R
+K_ZL_X
+K_ZL_Y
+Korean
+LANCER LE DIAGNOSTIC
+	LANGUAGES
+LEFT_RIGHT
+LFFF
+LFFFD
+LFFFFFD
+LIFI
+LIFT
+LILL
+LINE
+LJJIILLIIFFIIII
+LLFII
+LLII
+LLIIZ
+LLIL
+LLIZ
+LLLI
+LLLL
+LLLLLLI
+Landroid/app/Activity;
+%Landroid/app/ActivityManager$AppTask;
+,Landroid/app/ActivityManager$RecentTaskInfo;
+3Landroid/app/ActivityManager$RunningAppProcessInfo;
+Landroid/app/ActivityManager;
+!Landroid/app/AlertDialog$Builder;
+Landroid/app/AlertDialog;
+Landroid/app/NativeActivity;
+Landroid/content/ComponentName;
+!Landroid/content/ContentResolver;
+Landroid/content/Context;
+2Landroid/content/DialogInterface$OnCancelListener;
+1Landroid/content/DialogInterface$OnClickListener;
+!Landroid/content/DialogInterface;
+Landroid/content/Intent;
+*Landroid/content/SharedPreferences$Editor;
+#Landroid/content/SharedPreferences;
+!Landroid/content/pm/ActivityInfo;
+$Landroid/content/pm/ApplicationInfo;
+ Landroid/content/pm/PackageInfo;
+9Landroid/content/pm/PackageManager$NameNotFoundException;
+#Landroid/content/pm/PackageManager;
+)Landroid/content/res/AssetFileDescriptor;
+"Landroid/content/res/AssetManager;
+$Landroid/content/res/ColorStateList;
+Landroid/content/res/Resources;
+Landroid/graphics/Bitmap;
+ Landroid/graphics/BitmapFactory;
+Landroid/graphics/Canvas;
+Landroid/graphics/Color;
+!Landroid/graphics/LinearGradient;
+Landroid/graphics/Paint$Align;
+Landroid/graphics/Paint$Cap;
+$Landroid/graphics/Paint$FontMetrics;
+Landroid/graphics/Paint$Join;
+Landroid/graphics/Paint$Style;
+Landroid/graphics/Paint;
+!Landroid/graphics/Path$Direction;
+Landroid/graphics/Path;
+"Landroid/graphics/PorterDuff$Mode;
+Landroid/graphics/RectF;
+"Landroid/graphics/Shader$TileMode;
+Landroid/graphics/Shader;
+Landroid/graphics/Typeface;
+*Landroid/graphics/drawable/BitmapDrawable;
+$Landroid/graphics/drawable/Drawable;
+8Landroid/graphics/drawable/GradientDrawable$Orientation;
+,Landroid/graphics/drawable/GradientDrawable;
+)Landroid/graphics/drawable/ShapeDrawable;
+,Landroid/graphics/drawable/shapes/PathShape;
+(Landroid/graphics/drawable/shapes/Shape;
+Landroid/hardware/Sensor;
+Landroid/hardware/SensorEvent;
+&Landroid/hardware/SensorEventListener;
+ Landroid/hardware/SensorManager;
+9Landroid/hardware/input/InputManager$InputDeviceListener;
+%Landroid/hardware/input/InputManager;
+'Landroid/media/AudioAttributes$Builder;
+Landroid/media/AudioAttributes;
+Landroid/net/Uri;
+Landroid/os/Bundle;
+Landroid/os/Handler;
+Landroid/os/IBinder;
+Landroid/os/Looper;
+!Landroid/os/ParcelFileDescriptor;
+Landroid/os/Process;
+Landroid/os/SystemClock;
+Landroid/os/VibrationEffect;
+Landroid/os/Vibrator;
+Landroid/system/Os;
+Landroid/text/Editable;
+'Landroid/text/InputFilter$LengthFilter;
+#Landroid/text/TextUtils$TruncateAt;
+Landroid/util/DisplayMetrics;
+Landroid/util/Log;
+Landroid/view/DisplayCutout;
+Landroid/view/InputDevice;
+(Landroid/view/MotionEvent$PointerCoords;
+,Landroid/view/MotionEvent$PointerProperties;
+Landroid/view/MotionEvent;
+#Landroid/view/View$OnClickListener;
+#Landroid/view/View$OnTouchListener;
+Landroid/view/View;
+%Landroid/view/ViewGroup$LayoutParams;
+#Landroid/view/ViewPropertyAnimator;
+Landroid/view/Window;
+Landroid/view/WindowInsets;
+Landroid/widget/Button;
+7Landroid/widget/CompoundButton$OnCheckedChangeListener;
+Landroid/widget/CompoundButton;
+Landroid/widget/EditText;
+)Landroid/widget/FrameLayout$LayoutParams;
+Landroid/widget/FrameLayout;
+%Landroid/widget/HorizontalScrollView;
+$Landroid/widget/ImageView$ScaleType;
+Landroid/widget/ImageView;
+*Landroid/widget/LinearLayout$LayoutParams;
+Landroid/widget/LinearLayout;
+Landroid/widget/PopupWindow;
+Landroid/widget/ScrollView;
+0Landroid/widget/SeekBar$OnSeekBarChangeListener;
+Landroid/widget/SeekBar;
+Landroid/widget/Switch;
+Landroid/widget/TextView;
+Landroid/widget/Toast;
+Latin American Spanish
+Launcher.java
+"Ldalvik/annotation/EnclosingClass;
+#Ldalvik/annotation/EnclosingMethod;
+Ldalvik/annotation/InnerClass;
+!Ldalvik/annotation/MemberClasses;
+Ldalvik/annotation/Signature;
+Ldalvik/annotation/Throws;
+Ljava/io/ByteArrayOutputStream;
+Ljava/io/File;
+Ljava/io/FileDescriptor;
+Ljava/io/FileInputStream;
+Ljava/io/FileNotFoundException;
+Ljava/io/FileOutputStream;
+Ljava/io/IOException;
+Ljava/io/InputStream;
+Ljava/io/OutputStream;
+Ljava/lang/CharSequence;
+Ljava/lang/Class;
+Ljava/lang/Double;
+Ljava/lang/Exception;
+Ljava/lang/Float;
+Ljava/lang/Integer;
+ Ljava/lang/InterruptedException;
+Ljava/lang/Long;
+Ljava/lang/Math;
+!Ljava/lang/NumberFormatException;
+Ljava/lang/Object;
+Ljava/lang/Runnable;
+Ljava/lang/SecurityException;
+Ljava/lang/String;
+Ljava/lang/StringBuilder;
+Ljava/lang/System;
+Ljava/lang/Thread;
+Ljava/lang/Throwable;
+Ljava/nio/charset/Charset;
+#Ljava/nio/charset/StandardCharsets;
+Ljava/text/SimpleDateFormat;
+Ljava/util/ArrayList;
+Ljava/util/Arrays;
+Ljava/util/Collection;
+Ljava/util/Date;
+Ljava/util/HashMap;
+Ljava/util/Iterator;
+Ljava/util/LinkedHashMap;
+Ljava/util/List;
+Ljava/util/List<
+Ljava/util/Locale;
+Ljava/util/Map$Entry;
+Ljava/util/Map;
+Ljava/util/Map<
+Ljava/util/Set;
+%Ljava/util/concurrent/CountDownLatch;
+#Ljava/util/zip/DataFormatException;
+Ljava/util/zip/Inflater;
+Lorg/json/JSONObject;
+"Lorg/nxnative/android/GameStart$1;
+"Lorg/nxnative/android/GameStart$2;
+"Lorg/nxnative/android/GameStart$3;
+"Lorg/nxnative/android/GameStart$4;
+ Lorg/nxnative/android/GameStart;
+ Lorg/nxnative/android/Gamepad$1;
+"Lorg/nxnative/android/Gamepad$2$1;
+"Lorg/nxnative/android/Gamepad$2$2;
+ Lorg/nxnative/android/Gamepad$2;
+ Lorg/nxnative/android/Gamepad$3;
+ Lorg/nxnative/android/Gamepad$4;
+"Lorg/nxnative/android/Gamepad$5$1;
+"Lorg/nxnative/android/Gamepad$5$2;
+"Lorg/nxnative/android/Gamepad$5$3;
+"Lorg/nxnative/android/Gamepad$5$4;
+ Lorg/nxnative/android/Gamepad$5;
+Lorg/nxnative/android/Gamepad;
+"Lorg/nxnative/android/Launcher$10;
+"Lorg/nxnative/android/Launcher$11;
+$Lorg/nxnative/android/Launcher$12$1;
+"Lorg/nxnative/android/Launcher$12;
+"Lorg/nxnative/android/Launcher$13;
+"Lorg/nxnative/android/Launcher$14;
+"Lorg/nxnative/android/Launcher$15;
+!Lorg/nxnative/android/Launcher$1;
+!Lorg/nxnative/android/Launcher$2;
+!Lorg/nxnative/android/Launcher$3;
+!Lorg/nxnative/android/Launcher$4;
+!Lorg/nxnative/android/Launcher$5;
+!Lorg/nxnative/android/Launcher$6;
+!Lorg/nxnative/android/Launcher$7;
+!Lorg/nxnative/android/Launcher$8;
+#Lorg/nxnative/android/Launcher$9$1;
+!Lorg/nxnative/android/Launcher$9;
+$Lorg/nxnative/android/Launcher$Game;
+$Lorg/nxnative/android/Launcher$Mark;
+'Lorg/nxnative/android/Launcher$Setting;
+Lorg/nxnative/android/Launcher;
+ALower draws the 3D scene at fewer pixels: faster, softer picture.
+Mark
+NAMES
+NYO12 ULTIMATE
+NYO12 Ultimate save backup: the app's internal save folders as they were. Copy this folder to backups/restore/ on the phone to put them back.
+wNYO12 pr
+pare son gestionnaire de biblioth
+que et son import local. Ajoutez uniquement vos propres sauvegardes de jeux.
+Nothing to back up
+PANEL
+PICK
+PREF_URI
+Pick 
+Play
+Portuguese
+0Preparing %s for its first start
+ %d of %d files
+README.txt
+READY
+RING
+ROMFS
+ROOT
+ROUND
+	Real time
+Render scale
+Reset to tested defaults
+Restore failed: 
+Resume 
+	RomFS.img
+Rumble strength
+Russian
+SAUVEGARDES
+STROKE
+Saves backed up to 
+Saves restored
+Set in env.txt: 
+Setting
+Simplified Chinese
+Spanish
+Start
+	Starting
+Switch games?
+TEXT
+TEXT2
+TEXT_ON
+That file (
+_That file (%s) is %s, but %s's game data is %s: it's another version, or not copied completely.
+%The file you picked can't be opened: 
+%The first start takes a minute or two
+	The game 
+The game data (
+5The game data in the app's OBB folder can't be read: 
+1The game data you picked before can't be opened: 
+`The save could not be backed up, so it was not moved yet: free some space and open the app again
+The save could not be copied (
+This app carries no game host
+0This app holds no game (assets/game/game.json): 
+<This app may no longer read the game data you picked before.
+Traditional Chinese
+US_ASCII
+UTF_8
+!Update the app from your computer
+VFFFF
+VFFFFFFL
+VFFFFIIL
+VFFFI
+VFFFL
+VIFF
+VIIF
+VIIII
+VIIL
+VIJJ
+VJIIII
+VLFF
+VLFFJ
+VLFFL
+VLII
+VLIII
+VLIIL
+VLIIZ
+VLIL
+VLIZ
+VLLFFFZ
+VLLI
+VLLL
+VLLLI
+VLLLL
+	VLLLLILLL
+VLLLLL
+VLLZ
+"Votre biblioth
+que Switch est vide
+Your save was copied for 
+ZLLIL
+Zelda
+[/\\:*?"<>|]
+[0-9A-Fa-f]{16}
+[Landroid/text/InputFilter;
+)[Landroid/view/MotionEvent$PointerCoords;
+-[Landroid/view/MotionEvent$PointerProperties;
+[Ljava/io/File;
+[Ljava/lang/CharSequence;
+[Ljava/lang/Object;
+[Ljava/lang/String;
+[[Ljava/lang/String;
+_device
+2a controller is connected: the touch controls hide
+5a touch in the middle goes to the game's touch screen
+accessFlags
+acos
+activity
+addCategory
+	addCircle
+addFlags
+addRoundRect
+addSuppressed
+addView
+and is lifted
+android.intent.action.MAIN
+#android.intent.action.OPEN_DOCUMENT
+android.intent.category.HOME
+ android.intent.category.OPENABLE
+animate
+anyPad
+append
+apply
+applyXattrs
+arcTo
+argb
+ascent
+atan2
+await
+backup
+backup: 
+backups/
+backups/restore
+backups/restored-
+baseActivity
+begin
+bottom
+btnAt
+btnBits
+build
+bytes
+cache/
+cancel
+caps
+centerX
+centerY
+check
+checks
+choice
+choose
+chosen
+circle
+clear
+clickCx
+clickCy
+close
+code
+code/main.fixups.tsv
+contains
+containsKey
+control.nacp
+copyFile
+copyTree
+copyXattrsTree
+cornerB
+cornerL
+cornerR
+	countDown
+create
+createOneShot
+createScaledBitmap
+dataName
+decodeByteArray
+decodeFile
+defaults
+defaults.txt
+define
+delete
+deleteTree
+density
+descent
+detachFd
+dismiss
+displayVersion
+dist
+dots
+down
+downT
+dpadAt
+dpadBits
+dpadCx
+dpadCy
+dpadR
+drawCircle
+drawPath
+drawRoundRect
+drawText
+drop
+dropCx
+dropCy
+dropR
+edit
+elapsedRealtime
+en-GB
+en-US
+endGame
+endsWith
+entrySet
+env.txt
+envFile
+equals
+equalsIgnoreCase
+es-419
+exists
+faceAt
+faceBits
+faceCx
+faceCy
+faceGap
+faceOf
+faceR
+faceX
+faceY
+fail
+fails
+fill
+finish
+finishAndRemoveTask
+finished
+,first finger up: the stick stays, A released
+firstStart
+font
+format
+fpsAt
+fpsDraw
+	fpsFrames
+fpsPaint
+fpsTick
+fr-CA
+full
+fullOnly
+game
+game/
+game/RomFS.img
+game/files.txt
+game/game.json
+game/icon.jpg
+	gameBegin
+gameProcess
+gameTouches
+gamepad check: 
+Tgamepad check: a controller is connected, the touch controls are hidden: not checked
+	gamepad: 
+=gamepad: menu: a game app has no launcher; to the home screen
+#gamepad: menu: back to the launcher
+9gamepad: no accelerometer, shaking the phone does nothing
+#gamepad: phone shaken (peak %.1f G)
+Cgamepad: shaking the phone shakes the controller (threshold %.2f G)
+gamepad: touch controls shown (
+games
+games/
+getActionIndex
+getActionMasked
+getActivityInfo
+getAll
+getAppTasks
+getApplicationContext
+getApplicationInfo
+	getAssets
+getBooleanExtra
+	getButton
+getBytes
+getChildAt
+getChildCount
+getClassName
+getContentResolver
+getContext
+getControllerNumber
+getData
+getDecorView
+getDefaultSensor
+	getDevice
+getDeviceIds
+getDisplayCutout
+getDisplayMetrics
+getExternalFilesDir
+getFD
+getFileDescriptor
+getFilesDir
+getFontMetrics
+	getHeight
+getInt
+	getIntent
+getKey
+	getLength
+getLongVersionCode
+getMainLooper
+getMessage
+getName
+getObbDirs
+getPackageInfo
+getPackageManager
+getPackageName
+getPaint
+getParentFile
+getPath
+getPointerCount
+getPointerId
+getResources
+getRunningAppProcesses
+getSafeInsetBottom
+getSafeInsetLeft
+getSafeInsetRight
+getSafeInsetTop
+getSharedPreferences
+getSources
+getStartOffset
+getStatSize
+	getString
+getStringExtra
+getSystemService
+getTaskInfo
+getText
+getValue
+getVibrator
+getWidth
+	getWindow
+getWindowToken
+getX
+getY
+getenv
+getxattr
+glyph
+grow
+hapticSticks
+hasAmplitudeControl
+hasFiles
+hasNext
+hasVibrator
+height
+heightPixels
+homeX
+homeY
+hosted
+hosts
+hypot
+icon.jpg
+inMenu
+inRightArea
+inSwap
+indexOf
+inflate
+init
+input
+insB
+insL
+insR
+insT
+internal
+invalidate
+isClick
+isDirectory
+isDrop
+isEmpty
+isFile
+	isVirtual
+iterator
+its size unknown
+joyL
+joyR
+killProcess
+kind
+knob
+label
+labels
+last
+lastAx
+lastBtn
+lastModified
+lastUpdateTime
+later
+launcher
+launcher.txt
+launcher.txt: 
+launcher: 
+launcher: first start of 
+	launcher_
+layout
+left
+left stick released = 0
+left stick right = +32767
+'left stick up = +32767 (up is positive)
+leftMargin
+legacy_save
+legacy_save.done
+length
+libdmhost_
+line
+lineTo
+list
+list 
+	listFiles
+	listxattr
+main.
+makeText
+matches
+menuCx
+menuCy
+menuGo
+menuHeld
+migrate
+	migrate: 
+mkdir 
+mkdirs
+move
+moveTo
+myLooper
+nacp
+name
+nameOf
+nativeDefaultLayout
+	nativeEnv
+nativeFrames
+nativeGameTouch
+nativeLibraryDir
+	nativeLog
+nativeOpMode
+nativeShake
+nativeTouchPad
+needsDictionary
+needsInput
+next
+nextLayout
+no controller: touch controls
+note
+nxnative
+obtain
+onAccuracyChanged
+onActivityResult
+onApplyWindowInsets
+onBackPressed
+onCancel
+onCheckedChanged
+onClick
+onCreate
+onDraw
+onInputDeviceAdded
+onInputDeviceChanged
+onInputDeviceRemoved
+onNewIntent
+onProgressChanged
+onSensorChanged
+onStartTrackingTouch
+onStopTrackingTouch
+onTouch
+onTouchEvent
+open
+openFd
+openFileDescriptor
+opened
+optLong
+	optString
+org.nyo12.ultimate:game
+overridePendingTransition
+owner
+padOff
+padsChanged
+parse
+parseDouble
+parseFloat
+parseInt
+peak
+performClick
+performHapticFeedback
+pill
+pipeline.cache
+play
+popup
+post
+postDelayed
+pread
+prefs
+prepare
+press
+pressure
+processName
+pt-BR
+pushGame
+putExtra
+putInt
+	putString
+range
+read
+readAll
+	readAsset
+readFile
+readKeys
+readXattrs
+real
+	recompute
+recycle
+registerInputDeviceListener
+registerListener
+release
+removeAllViews
+rename 
+renameTo
+replaceAll
+=== lib/arm64-v8a/libnxloader.so ===
+ELF Header:
+  Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00
+  Class:                             ELF64
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              DYN (Shared object file)
+  Machine:                           AArch64
+  Version:                           0x1
+  Entry point address:               0x0
+  Start of program headers:          64 (bytes into file)
+  Start of section headers:          31184 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               64 (bytes)
+  Size of program headers:           56 (bytes)
+  Number of program headers:         8
+  Size of section headers:           64 (bytes)
+  Number of section headers:         30
+  Section header string table index: 28
+Dynamic section at offset 0x1008 contains 27 entries:
+  Tag                Type           Name/Value
+  0x0000000000000001 (NEEDED)       Shared library: [liblog.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libandroid.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libdl.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libm.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libc.so]
+  0x000000000000000e (SONAME)       Library soname: [libnxloader.so]
+  0x000000000000001e (FLAGS)        BIND_NOW 
+  0x000000006ffffffb (FLAGS_1)      NOW 
+  0x0000000000000007 (RELA)         0x598
+  0x0000000000000008 (RELASZ)       72 (bytes)
+  0x0000000000000009 (RELAENT)      24 (bytes)
+  0x000000006ffffff9 (RELACOUNT)    3
+  0x0000000000000017 (JMPREL)       0x5e0
+  0x0000000000000002 (PLTRELSZ)     288 (bytes)
+  0x0000000000000003 (PLTGOT)       0x51b8
+  0x0000000000000014 (PLTREL)       RELA
+  0x0000000000000006 (SYMTAB)       0x2c0
+  0x000000000000000b (SYMENT)       24 (bytes)
+  0x0000000000000005 (STRTAB)       0x490
+  0x000000000000000a (STRSZ)        258 (bytes)
+  0x000000006ffffef5 (GNU_HASH)     0x470
+  0x000000000000001a (FINI_ARRAY)   0x4ff8
+  0x000000000000001c (FINI_ARRAYSZ) 16 (bytes)
+  0x000000006ffffff0 (VERSYM)       0x410
+  0x000000006ffffffe (VERNEED)      0x42c
+  0x000000006fffffff (VERNEEDNUM)   2
+  0x0000000000000000 (NULL)         0x0
+Android
+r28c
+13676358
+__cxa_finalize
+__cxa_atexit
+__register_atfork
+ANativeActivity_onCreate
+__android_log_print
+ANativeActivity_finish
+__strlen_chk
+dlopen
+dlsym
+dlerror
+setenv
+__stack_chk_fail
+__vsnprintf_chk
+libdl.so
+LIBC
+libc.so
+liblog.so
+libandroid.so
+libm.so
+libnxloader.so
+libdmhost_%s.so
+loader: %s%s
+selftest
+DroidPlay
+getIntent
+(Ljava/lang/String;)Ljava/lang/String;
+ANativeActivity_onCreate
+()Landroid/content/Intent;
+ (self test)
+(Ljava/lang/String;Z)Z
+[RED] loader: started without a game (intent extra "game" = a title ID): nothing to run
+getBooleanExtra
+DM_FORCE_SELFTEST
+getStringExtra
+game
+[RED] loader: %s has no ANativeActivity_onCreate
+[RED] loader: %s is not in this app (%s): update the app from the computer (scripts/build_android_from_nsp.py)
+Android (13624864, +pgo, +bolt, +lto, +mlgo, based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
+Linker: LLD 19.0.1
+V	G&
+W	q&
+[	&'
+\	F'
+]	f'
+~	m-
+ANDROID_LOG_ERROR
+__int8_t
+__vr_offs
+unsigned short
+GetMethodID
+CallIntMethodA
+GetIntField
+ReleaseStringChars
+jobjectArray
+NewBooleanArray
+jfloatArray
+NewDoubleArray
+SetFloatArrayRegion
+ANDROID_LOG_WARN
+ANativeWindow
+_jmethodID
+__uint16_t
+long
+GetObjectClass
+CallCharMethod
+CallStaticIntMethod
+CallStaticFloatMethodV
+SetStaticLongField
+NewObjectArray
+selftest
+create
+AInputQueue
+jboolean
+ExceptionOccurred
+__va_list
+uint16_t
+jchar
+CallVoidMethod
+CallNonvirtualIntMethodA
+CallStaticBooleanMethodV
+CallStaticShortMethodV
+CallStaticFloatMethod
+jbooleanArray
+jweak
+_ZL8snprintfPcU17pass_object_size1mPKcz
+DestroyJavaVM
+CallNonvirtualDoubleMethodA
+CallNonvirtualVoidMethodV
+GetFloatArrayRegion
+__android_log_print
+__builtin___vsnprintf_chk
+result
+Throw
+DeleteGlobalRef
+AllocObject
+CallNonvirtualBooleanMethodA
+GetObjectField
+=== lib/arm64-v8a/libdmhost_0100000011D90000.so ===
+ELF Header:
+  Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00
+  Class:                             ELF64
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              DYN (Shared object file)
+  Machine:                           AArch64
+  Version:                           0x1
+  Entry point address:               0x0
+  Start of program headers:          64 (bytes into file)
+  Start of section headers:          9330552 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               64 (bytes)
+  Size of program headers:           56 (bytes)
+  Number of program headers:         9
+  Size of section headers:           64 (bytes)
+  Number of section headers:         39
+  Section header string table index: 37
+Dynamic section at offset 0x1d1a68 contains 32 entries:
+  Tag                Type           Name/Value
+  0x0000000000000001 (NEEDED)       Shared library: [liblog.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libandroid.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libaaudio.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libmediandk.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libm.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libdl.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libjnigraphics.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libc.so]
+  0x000000000000000e (SONAME)       Library soname: [libdmhost_0100000011D90000.so]
+  0x000000000000001e (FLAGS)        BIND_NOW 
+  0x000000006ffffffb (FLAGS_1)      NOW 
+  0x0000000000000007 (RELA)         0x4538
+  0x0000000000000008 (RELASZ)       184440 (bytes)
+  0x0000000000000009 (RELAENT)      24 (bytes)
+  0x000000006ffffff9 (RELACOUNT)    7607
+  0x0000000000000017 (JMPREL)       0x315b0
+  0x0000000000000002 (PLTRELSZ)     8592 (bytes)
+  0x0000000000000003 (PLTGOT)       0x1d61e0
+  0x0000000000000014 (PLTREL)       RELA
+  0x0000000000000006 (SYMTAB)       0x2f8
+  0x000000000000000b (SYMENT)       24 (bytes)
+  0x0000000000000005 (STRTAB)       0x2d60
+  0x000000000000000a (STRSZ)        6104 (bytes)
+  0x000000006ffffef5 (GNU_HASH)     0x2ca0
+  0x0000000000000019 (INIT_ARRAY)   0x1d5a40
+  0x000000000000001b (INIT_ARRAYSZ) 40 (bytes)
+  0x000000000000001a (FINI_ARRAY)   0x1d5a30
+  0x000000000000001c (FINI_ARRAYSZ) 16 (bytes)
+  0x000000006ffffff0 (VERSYM)       0x28f0
+  0x000000006ffffffe (VERNEED)      0x2c1c
+  0x000000006fffffff (VERNEEDNUM)   3
+  0x0000000000000000 (NULL)         0x0
+Android
+r28c
+13676358
+&SET
+ANativeActivity_onCreate
+__cxa_finalize
+__cxa_atexit
+__register_atfork
+front_run
+front_metal_layer
+front_has_window
+front_screen_max_fps
+front_ctrl_support
+front_screen_match
+front_progress
+stderr
+flockfile
+fprintf
+fputc
+funlockfile
+front_text_input
+pthread_create
+pthread_join
+__stack_chk_fail
+front_android_present
+android_main
+mkdir
+pipe
+dup2
+close
+setvbuf
+pthread_detach
+ANativeActivity_setWindowFlags
+ALooper_pollOnce
+ANativeWindow_getWidth
+ANativeWindow_getHeight
+pthread_mutex_lock
+pthread_mutex_unlock
+getenv
+AndroidBitmap_getInfo
+AndroidBitmap_lockPixels
+memcpy
+AndroidBitmap_unlockPixels
+_exit
+__vsnprintf_chk
+fopen
+fgets
+setenv
+strcspn
+__strchr_chk
+fclose
+stat
+strdup
+__errno
+pthread_attr_init
+pthread_attr_setstacksize
+fwrite
+AInputEvent_getSource
+AInputEvent_getType
+AKeyEvent_getKeyCode
+AMotionEvent_getAxisValue
+AMotionEvent_getAction
+AMotionEvent_getPointerCount
+AMotionEvent_getX
+AMotionEvent_getY
+AMotionEvent_getPointerId
+AKeyEvent_getAction
+__memmove_chk
+__read_chk
+memchr
+strstr
+__android_log_write
+fputs
+fflush
+calloc
+strcmp
+free
+AAssetManager_openDir
+AAssetDir_getNextFileName
+AAsset_close
+AAssetManager_open
+AAsset_read
+__fwrite_chk
+AAssetDir_close
+usleep
+nvn_demo_run
+atoi
+mmap
+__strlen_chk
+mprotect
+system
+fread
+getpid
+process_vm_readv
+memset
+posix_memalign
+strchr
+sinf
+vsnprintf
+android_app_read_cmd
+=== lib/arm64-v8a/libadrenotools.so ===
+ELF Header:
+  Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00
+  Class:                             ELF64
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              DYN (Shared object file)
+  Machine:                           AArch64
+  Version:                           0x1
+  Entry point address:               0x0
+  Start of program headers:          64 (bytes into file)
+  Start of section headers:          335864 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               64 (bytes)
+  Size of program headers:           56 (bytes)
+  Number of program headers:         9
+  Size of section headers:           64 (bytes)
+  Number of section headers:         28
+  Section header string table index: 27
+Dynamic section at offset 0x51608 contains 29 entries:
+  Tag                Type           Name/Value
+  0x0000000000000001 (NEEDED)       Shared library: [libandroid.so]
+  0x0000000000000001 (NEEDED)       Shared library: [liblog.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libdl.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libm.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libc.so]
+  0x000000000000000e (SONAME)       Library soname: [libadrenotools.so]
+  0x000000000000001e (FLAGS)        BIND_NOW 
+  0x000000006ffffffb (FLAGS_1)      NOW 
+  0x0000000000000007 (RELA)         0x96c8
+  0x0000000000000008 (RELASZ)       40704 (bytes)
+  0x0000000000000009 (RELAENT)      24 (bytes)
+  0x000000006ffffff9 (RELACOUNT)    1213
+  0x0000000000000017 (JMPREL)       0x135c8
+  0x0000000000000002 (PLTRELSZ)     3360 (bytes)
+  0x0000000000000003 (PLTGOT)       0x55928
+  0x0000000000000014 (PLTREL)       RELA
+  0x0000000000000006 (SYMTAB)       0x2f8
+  0x000000000000000b (SYMENT)       24 (bytes)
+  0x0000000000000005 (STRTAB)       0x4e78
+  0x000000000000000a (STRSZ)        18505 (bytes)
+  0x000000006ffffef5 (GNU_HASH)     0x4048
+  0x0000000000000019 (INIT_ARRAY)   0x555f0
+  0x000000000000001b (INIT_ARRAYSZ) 24 (bytes)
+  0x000000000000001a (FINI_ARRAY)   0x555e0
+  0x000000000000001c (FINI_ARRAYSZ) 16 (bytes)
+  0x000000006ffffff0 (VERSYM)       0x3b50
+  0x000000006ffffffe (VERNEED)      0x4004
+  0x000000006fffffff (VERNEEDNUM)   2
+  0x0000000000000000 (NULL)         0x0
+Android
+r28c
+13676358
+   A
+E8[t
+wK*g
+`UCP
+f6I]
+~@$m
+sgr}
+0n5Y
+wc]	
+8K|1
+)c:S
+OXaf+
+lX$s>$]Mw
+BUYb
+l?Tn
+=s0P
+__cxa_finalize
+__cxa_atexit
+__register_atfork
+adrenotools_open_libvulkan
+__system_property_get
+atoi
+strlen
+_Znwm
+memcpy
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6appendEPKc
+stat
+_ZdlPv
+dlsym
+_ZN14HookImplParamsC2EiPKcS1_S1_S1_S1_P23adrenotools_gpu_mapping
+__stack_chk_fail
+memmove
+adrenotools_import_user_mem
+__open_2
+ioctl
+close
+adrenotools_mem_gpu_allocate
+adrenotools_mem_cpu_map
+mmap
+adrenotools_validate_gpu_mapping
+adrenotools_set_turbo
+__cxa_allocate_exception
+_ZTISt12length_error
+_ZNSt12length_errorD1Ev
+__cxa_throw
+__cxa_free_exception
+_ZNSt11logic_errorC2EPKc
+_ZTVSt12length_error
+__gxx_personality_v0
+dlopen
+__cxa_guard_acquire
+__cxa_guard_release
+__cxa_guard_abort
+android_dlopen_ext
+open
+__errno
+syscall
+__vsnprintf_chk
+getpagesize
+mprotect
+ftruncate
+__read_chk
+dl_iterate_phdr
+__llvm_fs_discriminator__
+_ZNSt11logic_errorC2ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZTVSt11logic_error
+_ZNSt9exceptionD2Ev
+_ZNSt11logic_errorC2ERKS_
+_ZNSt11logic_erroraSERKS_
+_ZNSt13runtime_errorC2ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZTVSt13runtime_error
+_ZNSt13runtime_errorC2EPKc
+_ZNSt13runtime_errorC2ERKS_
+_ZNSt13runtime_erroraSERKS_
+_ZNSt6__ndk121__throw_runtime_errorEPKc
+_ZNSt13runtime_errorC1EPKc
+_ZTISt13runtime_error
+_ZNSt13runtime_errorD1Ev
+_ZNSt11logic_errorC1ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt11logic_errorC1EPKc
+_ZNSt11logic_errorC1ERKS_
+_ZNSt13runtime_errorC1ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt13runtime_errorC1ERKS_
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7replaceEmmPKcm
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE21__grow_by_and_replaceEmmmmmmPKc
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE5rfindEPKcmm
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6__initEPKcmm
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC2ERKS5_
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE7replaceEmmPKc
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC2ERKS5_RKS4_
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE16find_last_not_ofEPKcmm
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE17find_first_not_ofEPKcmm
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6insertEmmc
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEaSEc
+_ZNSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6__initEPKcm
+_ZNKSt6__ndk112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE2atEm
+=== lib/arm64-v8a/libhook_impl.so ===
+ELF Header:
+  Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00
+  Class:                             ELF64
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              DYN (Shared object file)
+  Machine:                           AArch64
+  Version:                           0x1
+  Entry point address:               0x0
+  Start of program headers:          64 (bytes into file)
+  Start of section headers:          274472 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               64 (bytes)
+  Size of program headers:           56 (bytes)
+  Number of program headers:         9
+  Size of section headers:           64 (bytes)
+  Number of section headers:         28
+  Section header string table index: 27
+Dynamic section at offset 0x42738 contains 29 entries:
+  Tag                Type           Name/Value
+  0x0000000000000001 (NEEDED)       Shared library: [liblog.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libandroid.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libdl.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libm.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libc.so]
+  0x000000000000000e (SONAME)       Library soname: [libhook_impl.so]
+  0x000000000000001e (FLAGS)        BIND_NOW 
+  0x000000006ffffffb (FLAGS_1)      NOW 
+  0x0000000000000007 (RELA)         0x5d88
+  0x0000000000000008 (RELASZ)       40512 (bytes)
+  0x0000000000000009 (RELAENT)      24 (bytes)
+  0x000000006ffffff9 (RELACOUNT)    1210
+  0x0000000000000017 (JMPREL)       0xfbc8
+  0x0000000000000002 (PLTRELSZ)     2784 (bytes)
+  0x0000000000000003 (PLTGOT)       0x46a18
+  0x0000000000000014 (PLTREL)       RELA
+  0x0000000000000006 (SYMTAB)       0x2f8
+  0x000000000000000b (SYMENT)       24 (bytes)
+  0x0000000000000005 (STRTAB)       0x3d2c
+  0x000000000000000a (STRSZ)        8282 (bytes)
+  0x000000006ffffef5 (GNU_HASH)     0x3188
+  0x0000000000000019 (INIT_ARRAY)   0x46720
+  0x000000000000001b (INIT_ARRAYSZ) 24 (bytes)
+  0x000000000000001a (FINI_ARRAY)   0x46710
+  0x000000000000001c (FINI_ARRAYSZ) 16 (bytes)
+  0x000000006ffffff0 (VERSYM)       0x2db8
+  0x000000006ffffffe (VERNEED)      0x3148
+  0x000000006fffffff (VERNEEDNUM)   2
+  0x0000000000000000 (NULL)         0x0
+Android
+r28c
+13676358
+   A
+f4f*
+wcv1
+8K|1
+1HnQ
+l`7q
+vXV5
+cgf+
+bUCP
+DBUYb
+__cxa_finalize
+__cxa_atexit
+__register_atfork
+init_hook_param
+init_gsl
+hook_android_dlopen_ext
+__android_log_print
+strstr
+android_create_namespace
+android_link_namespaces
+linkernsbypass_namespace_dlopen
+dlsym
+android_dlopen_ext
+dlerror
+__stack_chk_fail
+hook_android_load_sphal_library
+android_get_exported_namespace
+hook_fopen
+strncmp
+strlen
+fopen
+_Znwm
+memmove
+_ZdlPv
+hook_gsl_memory_alloc_pure_64
+hook_gsl_memory_free_pure
+__open_2
+ioctl
+__cxa_allocate_exception
+_ZTISt12length_error
+_ZNSt12length_errorD1Ev
+__cxa_throw
+__cxa_free_exception
+_ZNSt11logic_errorC2EPKc
+_ZTVSt12length_error
+__gxx_personality_v0
+linkernsbypass_load_status
+android_create_namespace_escape
+dlopen
+linkernsbypass_link_namespace_to_default_all_libs
+android_link_namespaces_all_libs
+__cxa_guard_acquire
+__cxa_guard_release
+__cxa_guard_abort
+linkernsbypass_namespace_dlopen_unique
+open
+__errno
+syscall
+elf_soname_patch
+__vsnprintf_chk
+__system_property_get
+atoi
+getpagesize
+mprotect
+stat
+ftruncate
+mmap
+__read_chk
+close
+dl_iterate_phdr
+__llvm_fs_discriminator__
+_ZNSt11logic_errorC2ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZTVSt11logic_error
+memcpy
+_ZNSt9exceptionD2Ev
+_ZNSt11logic_errorC2ERKS_
+_ZNSt11logic_erroraSERKS_
+_ZNSt13runtime_errorC2ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZTVSt13runtime_error
+_ZNSt13runtime_errorC2EPKc
+_ZNSt13runtime_errorC2ERKS_
+_ZNSt13runtime_erroraSERKS_
+_ZNSt6__ndk121__throw_runtime_errorEPKc
+_ZNSt13runtime_errorC1EPKc
+_ZTISt13runtime_error
+_ZNSt13runtime_errorD1Ev
+_ZNSt11logic_errorC1ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt11logic_errorC1EPKc
+_ZNSt11logic_errorC1ERKS_
+_ZNSt13runtime_errorC1ERKNSt6__ndk112basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+_ZNSt13runtime_errorC1ERKS_
+_ZSt14set_unexpectedPFvvE
+__cxa_unexpected_handler
+_ZSt13set_terminatePFvvE
+__cxa_terminate_handler
+_ZSt15set_new_handlerPFvvE
+__cxa_new_handler
+=== lib/arm64-v8a/libmain_hook.so ===
+ELF Header:
+  Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00
+  Class:                             ELF64
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              DYN (Shared object file)
+  Machine:                           AArch64
+  Version:                           0x1
+  Entry point address:               0x0
+  Start of program headers:          64 (bytes into file)
+  Start of section headers:          2872 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               64 (bytes)
+  Size of program headers:           56 (bytes)
+  Number of program headers:         8
+  Size of section headers:           64 (bytes)
+  Number of section headers:         21
+  Section header string table index: 20
+Dynamic section at offset 0x788 contains 28 entries:
+  Tag                Type           Name/Value
+  0x0000000000000001 (NEEDED)       Shared library: [libhook_impl.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libandroid.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libdl.so]
+  0x0000000000000001 (NEEDED)       Shared library: [liblog.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libm.so]
+  0x0000000000000001 (NEEDED)       Shared library: [libc.so]
+  0x000000000000000e (SONAME)       Library soname: [libmain_hook.so]
+  0x000000000000001e (FLAGS)        BIND_NOW 
+  0x000000006ffffffb (FLAGS_1)      NOW GLOBAL 
+  0x0000000000000007 (RELA)         0x4c0
+  0x0000000000000008 (RELASZ)       72 (bytes)
+  0x0000000000000009 (RELAENT)      24 (bytes)
+  0x000000006ffffff9 (RELACOUNT)    3
+  0x0000000000000017 (JMPREL)       0x508
+  0x0000000000000002 (PLTRELSZ)     120 (bytes)
+  0x0000000000000003 (PLTGOT)       0x4948
+  0x0000000000000014 (PLTREL)       RELA
+  0x0000000000000006 (SYMTAB)       0x2c0
+  0x000000000000000b (SYMENT)       24 (bytes)
+  0x0000000000000005 (STRTAB)       0x3d4
+  0x000000000000000a (STRSZ)        235 (bytes)
+  0x000000006ffffef5 (GNU_HASH)     0x3b0
+  0x000000000000001a (FINI_ARRAY)   0x4778
+  0x000000000000001c (FINI_ARRAYSZ) 16 (bytes)
+  0x000000006ffffff0 (VERSYM)       0x380
+  0x000000006ffffffe (VERNEED)      0x390
+  0x000000006fffffff (VERNEEDNUM)   1
+  0x0000000000000000 (NULL)         0x0
+Android
+r28c
+13676358
+qCZ4
+__cxa_finalize
+__cxa_atexit
+__register_atfork
+android_dlopen_ext
+hook_android_dlopen_ext
+android_load_sphal_library
+hook_android_load_sphal_library
+libc.so
+LIBC
+libhook_impl.so
+libandroid.so
+libdl.so
+liblog.so
+libm.so
+libmain_hook.so
+Android (13624864, +pgo, +bolt, +lto, +mlgo, based on r530567e) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
+Linker: LLD 19.0.1
+.note.android.ident
+.note.gnu.build-id
+.dynsym
+.gnu.version
+.gnu.version_r
+.gnu.hash
+.dynstr
+.rela.dyn
+.rela.plt
+.eh_frame_hdr
+.eh_frame
+.text
+.plt
+.data.rel.ro
+.fini_array
+.dynamic
+.got.plt
+.relro_padding
+.comment
+.shstrtab
